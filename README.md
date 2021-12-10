@@ -4,3 +4,8 @@ Credits: Dr. Joshua Bastean
 
 # RGB-Color-guess-Game
 Given RGB number guess what color it is.
+
+### Tech Stack:
+1. html
+2. css
+3. vanilla javascript
